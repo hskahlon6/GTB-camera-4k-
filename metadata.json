@@ -1,0 +1,6 @@
+{
+  "name": "GTB Camera 4K",
+  "description": "Professional 4K cinema and DSLR camera app with manual controls, live LUT filters, and high-bitrate video recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
